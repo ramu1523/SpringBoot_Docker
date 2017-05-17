@@ -20,7 +20,7 @@ To view the docker logs :
 $ docker logs container-id
 
 
-To view the docker images
+To view the docker containers
 $ docker ps --all
 
 Test the docker app response using the below url
